@@ -15,6 +15,7 @@
 
  ********************************************************************/
 
+#undef _ARM_ASSEM_
 #ifdef _ARM_ASSEM_
 
 #if !defined(_V_WIDE_MATH) && !defined(_LOW_ACCURACY_)
